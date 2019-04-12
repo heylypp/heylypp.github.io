@@ -21,6 +21,6 @@ title: 关于我
 
 - QQ : 693285006
 
-- Email : [2zyp09@gmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email : [2zyp09@gmail.com]
 
 - GitHub : [https://github.com/heylypp](https://github.com/heylypp)
