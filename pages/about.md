@@ -15,12 +15,12 @@ title: 关于我
 
 - 路径规划算法
 
-- 组合导航及视觉slam
+- 视觉slam、组合导航
 
 ## 联系我
 
 - QQ : 693285006
 
-- Email : [2zyp09@gmail.com]
+- Email : 2zyp09@gmail.com
 
 - GitHub : [https://github.com/heylypp](https://github.com/heylypp)
