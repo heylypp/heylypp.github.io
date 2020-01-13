@@ -1,8 +1,25 @@
 ---
-layout: mypost
-title: 404错误
+layout: default
+description: "你来到了没有知识的荒原 :("
+header-img: "images/404-bg.jpg"
+permalink: /404.html
 ---
 
-<p>页面找不到了，可能是原始链接发生了更改~</p>
 
-<p>点击<a href="{{ site.baseUrl }}/">这里</a>回到首页浏览更多内容</p>
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading" id="tag-heading">
+					<h1>404</h1>
+					<span class="subheading">{{ page.description }}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>
