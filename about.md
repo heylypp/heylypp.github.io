@@ -16,7 +16,7 @@ title: 关于我
 
 <p>
 
-这个博客采用的是Jekyll搭建，使用的<a href="http://baixin.io/" target="_blank">潘柏信</a>提供的模板修改而成。
+这个博客利用Jekyll搭建，使用的<a href="http://baixin.io/" target="_blank">潘柏信</a>提供的模板修改而成。
 
 {% include comments.html %}
 
