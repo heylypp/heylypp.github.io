@@ -1,6 +1,0 @@
----
-layout: mytags
-title: 标签
-header: 生成标签
-group: navigation
----

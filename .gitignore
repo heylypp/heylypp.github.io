@@ -1,2 +1,6 @@
-_drafts/
-.jekyll-cache/
+_site
+node_modules
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh

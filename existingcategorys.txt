@@ -1,6 +1,0 @@
----
-layout: mycategorys
-title: 分类
-header: 生成分类
-group: navigation
----
