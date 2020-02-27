@@ -1,11 +1,11 @@
 # Site settings
-title: heylypp Blog
-SEOTitle: heylypp的博客 | heylypp
+title: heylypp blog
+SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: heylypp@gmail.com
+email: huxpro@gmail.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "heylypp的博客, Hux Blog, 博客, 个人网站, 导航"
-url: "https://150328.xyz/"              # your host, for absolute URL
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     
+#weibo_username:     huxpro
 #zhihu_username:     huxpro
 github_username:    heylypp
 #twitter_username:   huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -58,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: heylypp
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -71,13 +72,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: 150328.xyz
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Traveler without boundaries<br>行者无疆"
+sidebar-about-description: "行者无疆"
 sidebar-avatar: /img/heylypp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
